@@ -334,6 +334,10 @@ margin-top: 18px;
   font-size: 18px;
   font-weight: bold;
   color: white;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0 0 0 0;
 }
 .footer__column-link{
   text-decoration: none;
@@ -343,6 +347,7 @@ margin-top: 18px;
   font-size: 18px;
   font-weight: normal;
   list-style-type: none;
+  padding: 0 0 0 0;
 }
 .footer__social-icon{
   margin-right: 10px;
@@ -350,7 +355,9 @@ margin-top: 18px;
   height: 16px;
 }
 .footer__column-links{
+  justify-content: space-between;
   list-style-type: none;
+  padding: 0 0 0 0;
 }
 .footer__navigation{
 
