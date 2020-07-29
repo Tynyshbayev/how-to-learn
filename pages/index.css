@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../block/page/page.css);
 @import url(../block/header/header.css);
 @import url(../block/header/__link/header__link.css);
@@ -44,7 +45,7 @@
 @import url(../block/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../block/khan/__quote-author/khan__quote-author.css);
 @import url(../block/khan/__title/khan__title.css);
-@import url(../block/khan/quote/khan__quote.css);
+@import url(../block/khan/__quote/khan__quote.css);
 @import url(../block/kaufman/kaufman.css);
 @import url(../block/kaufman/__triangle/kaufman__triangle.css);
 @import url(../block/resources/resources.css);
@@ -69,5 +70,6 @@
 @import url(../block/logo/logo.css);
 @import url(../block/logo/_place/logo_place_footer.css);
 @import url(../block/logo/_place/logo_place_header.css);
-@import url(../vendor/normalize.css)
+@import url(../block/rotation/rotation.css);
+
 

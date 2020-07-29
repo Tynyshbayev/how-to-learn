@@ -1,6 +1,4 @@
 .feynman__portrait{
-    display: flex;
-    flex-direction: row;
     align-self: flex-start;
     position: absolute;
     left: 0;

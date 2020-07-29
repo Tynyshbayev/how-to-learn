@@ -3,5 +3,5 @@
     text-decoration: none;
   }
   .header__link:hover{
-    
+    opacity: 80%;
   }
