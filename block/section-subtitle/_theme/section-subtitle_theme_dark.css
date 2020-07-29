@@ -2,4 +2,5 @@
     display: flex;
     width: 60%;
     color: white;
+    z-index: 1;
   }
